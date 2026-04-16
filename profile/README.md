@@ -1,12 +1,12 @@
-## Hi there 👋
+# holidays.rest
 
-<!--
+[holidays.rest](https://www.holidays.rest) provides the most accurate and comprehensive holiday data for businesses at any scale at at blazing speed.
 
-**Here are some ideas to get you started:**
+We cover national, public, and religious holidays for 195+ countries in milliseconds.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Resources
+
+- 🎗️ See our [API Documents](https://docs.holidays.rest/#introduction).
+- 🚀 Browse and fork our [Postman Collection](https://www.postman.com/holidays-rest/holidays-rest/collection/au7ng15/holidays-rest-api?sideView=agentMode).
+- 💾 Download our [API Spec](https://docs.holidays.rest/spec.yaml).
+- 👾 Download our [Insomnia Collection](https://docs.holidays.rest/insomnia.json)
