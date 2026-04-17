@@ -13,12 +13,10 @@ We cover national, public, and religious holidays for 195+ countries in millisec
 
 ## SDKs
 
-| SDKs                                                     |
-| -------------------------------------------------------- |
-| [Javascript](https://github.com/holidays-rest/sdk-js)    |
-| [Typescript](https://github.com/holidays-rest/sdk-ts)    |
-| [Go](https://github.com/holidays-rest/sdk-go)            |
-| [Python](https://github.com/holidays-rest/sdk-py)        |
-| [Ruby](https://github.com/holidays-rest/sdk-ruby)        |
-| [Kotlin](https://github.com/holidays-rest/sdk-kotlin)    |
-| [C# / .Net](https://github.com/holidays-rest/sdk-csharp) |
+- [Javascript](https://github.com/holidays-rest/sdk-js)
+- [Typescript](https://github.com/holidays-rest/sdk-ts)
+- [Go](https://github.com/holidays-rest/sdk-go)
+- [Python](https://github.com/holidays-rest/sdk-py)
+- [Ruby](https://github.com/holidays-rest/sdk-ruby)
+- [Kotlin](https://github.com/holidays-rest/sdk-kotlin)
+- [C# / .Net](https://github.com/holidays-rest/sdk-csharp)
