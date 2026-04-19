@@ -7,8 +7,8 @@ We cover national, public, and religious holidays for 195+ countries in millisec
 ## Resources
 
 - 🎗️ See our [API Documents](https://docs.holidays.rest).
-- 🚀 Browse and fork our [Postman](https://www.postman.com/holidays-rest/holidays-rest/collection/au7ng15/holidays-rest-api?sideView=agentMode) collection.
-- 👾 Use our [MCP Server](https://www.postman.com/holidays-rest/holidays-rest/mcp-request/69e038998ef6996c17a0cc94/holidays-rest-mcp-server?action=share&creator=39376222).
+- 🚀 Browse and fork our [Postman](https://www.postman.com/dinazor-io/holidays-rest/collection/au7ng15/holidays-rest-api?action=share&creator=39376222) collection.
+- 👾 Use our [MCP Server](https://www.postman.com/dinazor-io/holidays-rest/collection/69e038988ef6996c17a0cc93/holidays-rest-mcp-server?action=share&creator=39376222).
 - 🏥 See the [API Status Page](https://holidays.openstatus.dev/)
 
 ## SDKs
